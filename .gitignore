@@ -1,0 +1,19 @@
+# IDE & Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build & Output
+build/
+cmake-build-*/
+bin/
+obj/
+*.o
+*.obj
+*.exe
+*.out
+
+# System files
+.DS_Store
+Thumbs.db
